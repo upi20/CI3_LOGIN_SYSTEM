@@ -5,13 +5,13 @@ Aplikasi sistem login dan menu manajemen dengan menggunakan Framework Codeignite
 Instalasi seperti Database seperti Framework Codeigniter biasanya.
 Ubah base url pada application config
 <pre>
-	Administrator :
-	email: iseplutpi1008@gmail.com
-	passw: 1234	
+Administrator :
+email: iseplutpi1008@gmail.com
+passw: 1234
 
-	User:
-	email: vakrun@gmail.com
-	passw: 1234
+User:
+email: vakrun@gmail.com
+passw: 1234
 </pre>
 
 ### Tampilan Administrator
